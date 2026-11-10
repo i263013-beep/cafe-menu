@@ -1,0 +1,22 @@
+
+body{background-color:lightyellow;
+color:brown;
+font-family: Arial;
+text-align: center;}
+h1{color:darked;}
+button{
+    background-color: brown;
+    color: white;
+    padding: 10px 20px ;
+    border-radius: 10px;
+    display:block;
+    margin-left:auto;
+img {
+    width: 300px;
+    height: 200px;
+    border-radious: 15px;
+    object-fit: cover;}
+}
+table{
+    margin: auto ;
+}
