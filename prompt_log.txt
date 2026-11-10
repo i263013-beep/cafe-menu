@@ -1,0 +1,15 @@
+AI PROMPT LOG - LAB 12
+Student Name: Khurrum Irshad
+Roll Number: 26i-3013
+
+Prompt 1: "aur ab aaj ki laab per chalin aur us ka task ko start krin mgha har step shro sa aisa btain kaha main kuch bhi na janta hon"
+Response 1: Received step-by-step instructions for repository structuring, GitHub Desktop setup, and deployment.
+
+Prompt 2: "is main jo plus ka nishan hai usi per click krna hai"
+Response 2: Received clarification on how to add an existing repository folder via drag-and-drop instead of creating a new one.
+
+Prompt 3: "ye shi hai to is sa aga wala step btain"
+Response 3: Received instructions on publishing the repository and making it public.
+
+Prompt 4: "contect us per ye aa jata hai"
+Response 4: Identified the 404 error due to a file naming typo (contect.html vs contact.html) and received steps to fix it.
